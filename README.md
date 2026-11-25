@@ -58,3 +58,5 @@ The threaded frontend uses the SQLite checkpointer in `backend/langgraph_tool_ba
 ## Security
 
 Do not commit `.env` files, API keys, or local database files. Before publishing this repository, remove any credentials embedded in backend source code and rotate them if they have already been exposed.
+<img width="1432" height="672" alt="image" src="https://github.com/user-attachments/assets/7e076a43-d1ac-4cf3-8ab5-166a5cd62dab" />
+
